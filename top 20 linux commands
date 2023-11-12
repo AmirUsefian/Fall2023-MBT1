@@ -1,0 +1,62 @@
+apt
+The apt command is a powerful command-line tool, which works with Ubuntu's Advanced Packaging Tool (APT). The commands contained within apt provide the means for installing new software packages, upgrading existing software packages, updating the package list index, and even upgrading the entire Ubuntu system.
+
+ls
+The ls command is one of the more basic commands in Linux. It is designed to list the names and features of files and directories. It can be used for a single file or as many as all files and folders in a selected set of directories.
+
+ls -a
+s -a will list all files including hidden files (files with names beginning with a dot).
+
+cd 
+The cd command in Linux stands for change directory. It is used to change the current directory of the terminal.
+
+mkdir (folder name)
+The mkdir command in Linux/Unix allows users to create or make new directories. mkdir stands for “make directory.” With mkdir , you can also set permissions, create multiple directories (folders) at once, and much more.
+
+rmdir
+The rmdir command removes the directory, specified by the Directory parameter, from the system. The directory must be empty before you can remove it, and you must have write permission in its parent directory.
+
+rm -rf (folder name)
+The rm (remove) command is used to delete files and directories.
+
+pwd
+The "pwd" command prints the full name (the full path) of current/working directory. 
+
+man ...
+man command in Linux is used to display the user manual of any command that we can run on the terminal. It provides a detailed view of the command which includes NAME, SYNOPSIS, DESCRIPTION, OPTIONS, EXIT STATUS, RETURN VALUES, ERRORS, FILES, VERSIONS, EXAMPLES, AUTHORS and SEE ALSO.
+
+clear
+We can clear our terminal by using this command
+
+cp (file copied) (file pasted)
+ou use the cp command in Linux to copy files and directories from one location to another. It stands for "copy" and is a fundamental command-line utility for file management. The cp command follows a specific syntax for copying directories.
+
+mv (file cut) (file pasted)
+The mv command moves files and directories from one directory to another or renames a file or directory.
+
+cat (file name)
+Cat is short for concatenate. This command displays the contents of one or more files without having to open the file for editing.
+
+grep
+In Linux and Unix Systems Grep, short for “global regular expression print”, is a command used in searching and matching text files contained in the regular expressions.
+
+history
+history command is used to view the previously executed command. 
+
+ps/top
+Linux provides a utility called ps (which stands as abbreviation for “Process Status”) for viewing information related with the processes on a system. The ps command is used to list the currently running processes and their PIDs along with some other information, which depends on different options.
+
+kill
+The kill command sends a signal to a process. This can terminate a process (the default), interrupt it, suspend it, crash it, and so on.
+
+passwd
+The passwd command changes passwords for user accounts. 
+
+shutdown
+To power off the machine, use poweroff or shutdown -h
+
+sudo
+The sudo command allows you to run programs with the security privileges of another user (by default, as the superuser). It prompts you for your personal password and confirms your request to execute a command by checking a file, called sudoers , which the system administrator configures.
+
+wget
+Wget is a networking command-line tool that lets you download files and interact with REST APIs. It supports the HTTP , HTTPS , FTP , and FTPS internet protocols.
